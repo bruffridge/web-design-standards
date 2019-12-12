@@ -1,3 +1,5 @@
+This repo is no longer maintained, it is replaced by [nasawds](https://github.com/nasa/nasawds)
+
 # NASA Web Design System
 [![CircleCI Build Status](https://circleci.com/gh/nasa/nasawds/tree/develop.svg?style=shield)](https://circleci.com/gh/nasa/nasawds/tree/develop) [![Test Coverage](https://codeclimate.com/github/bruffridge/nasawds/badges/coverage.svg)](https://codeclimate.com/github/bruffridge/nasawds/coverage)
 
